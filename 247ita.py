@@ -7,10 +7,10 @@ import time
 from dotenv import load_dotenv
 load_dotenv()
 
-PROXY = os.getenv("PROXY", "")
-MFPDD= os.getenv("MFPDD", "")
-MFPDD2= os.getenv("MFPDD2", "")
-MFPDDNOPSW = os.getenv("MFPDDNOPSW", "")
+PROXY = os.getenv("DDPROXY", "")
+MFPDD= os.getenv("DDMFPDD", "")
+MFPDD2= os.getenv("DDMFPDD2", "")
+MFPDDNOPSW = os.getenv("DDMFPDDNOPSW", "")
 # Costanti
 M3U8_OUTPUT_FILE = "247ita.m3u8"
 REFERER = "forcedtoplay.xyz"
