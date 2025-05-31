@@ -11,9 +11,9 @@ import time
 from dotenv import load_dotenv
 load_dotenv()
 
-PROXY = os.getenv("PROXY", "")
-MFPDD= os.getenv("MFPDD", "")
-MFPDD2= os.getenv("MFPDD2", "")
+PROXY = os.getenv("DDPROXY", "")
+MFPDD= os.getenv("DDMFPDD", "")
+MFPDD2= os.getenv("DDMFPDD2", "")
 
 # Costanti
 NUM_CHANNELS = 10000
