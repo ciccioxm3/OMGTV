@@ -12,7 +12,7 @@ import time
 from dotenv import load_dotenv
 load_dotenv()
 
-PROXY = os.getenv("PROXY")
+PROXY = os.getenv("DDPROXY")
 
 # Constants
 #REFERER = "forcedtoplay.xyz"
