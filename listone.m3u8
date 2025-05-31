@@ -6,11 +6,8 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/42467740
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2775802255/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3481346857/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3445562519/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2283887097/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Intrattenimento;Rai Tv",RAI 1 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1225653759/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -18,32 +15,59 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/12256537
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2289038972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Intrattenimento;Rai Tv",RAI 2 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/246253359/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3448075317/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/449990998/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3445562519/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1 (2)" tvg-logo="" group-title="Sport",EUROSPORT 1 (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3481346857/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 1 (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/875922788/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1144128726/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/449990998/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/210669162/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1101559666/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5 (2)" tvg-logo="" group-title="Mediaset",CANALE 5 (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1534161807/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2283887097/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film;Sky",SKY CINEMA COMEDY (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3131104474/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2924135092/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1665920101/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="italia1.it" tvg-name="Italia 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Intrattenimento;Mediaset",ITALIA 1 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/663536394/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Moto Gp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3036316886/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2100771782/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis (2)" tvg-logo="" group-title="Sport",SKY SPORT TENNIS (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/78546677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Intrattenimento;Rai Tv",RAI 2 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/246253359/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3216516117/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="Zona Dazn" tvg-logo="https://www.digital-news.it/img/palinsesti/2023/12/1701423631-zona-dazn.webp" group-title="Sport",ZONA DAZN (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2911178456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/84139639/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5 (2)" tvg-logo="" group-title="Altro",LA 5 (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1425667375/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="Sky Cinema Collection" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film;Sky",SKY CINEMA COLLECTION (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3525837057/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -51,59 +75,53 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/35258370
 #EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film;Sky",SKY CINEMA DRAMA (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1235530177/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Moto Gp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3036316886/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film;Sky",SKY CINEMA COMEDY (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3131104474/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1759625738/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Intrattenimento;Rai Tv",RAI 4 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2179822223/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Intrattenimento;Rai Tv",RAI 3 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1324733956/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1989309231/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2924135092/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari;Discovery",DISCOVERY NOVE (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1574591400/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3007400791/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1425667375/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3475299702/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5 (2)" tvg-logo="" group-title="Mediaset",CANALE 5 (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1101559666/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2455610203/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/210669162/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Discovery",TOP CRIME (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3420407456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1144128726/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="Mediaset Extra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Intrattenimento;Mediaset",MEDIASET EXTRA (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/477466531/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2 (2)" tvg-logo="" group-title="Sport",EUROSPORT 2 (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2317684453/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1376440573/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Sky",CIELO (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2719953688/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="dazn2.it" tvg-name="Dazn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/882px-DAZN_2.svg.png" group-title="Sport",DAZN 2 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/363506221/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film;Sky",SKY CINEMA SUSPENSE (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3060043751/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Intrattenimento;Rai Tv",RAI 3 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/869117599/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 3 (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1324733956/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/869117599/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",20 MEDIASET (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1230338185/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4198218214/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Intrattenimento;Rai Tv",RAI 4 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2179822223/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/322024849/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/415795144/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film;Sky",SKY SERIE (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/836680112/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film;Sky",SKY CINEMA ROMANCE (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2890008905/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -111,35 +129,62 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/28900089
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA UNO (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2872151911/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno (2)" tvg-logo="" group-title="Sport",SKY SPORT UNO (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3192996672/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1665920101/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="italia2.it" tvg-name="Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Intrattenimento;Mediaset",ITALIA 2 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1613543898/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/729945219/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 7 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3618643172/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT [LIVE DURING EVENTS ONLY] (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/551730224/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5 (2)" tvg-logo="" group-title="Altro",LA 5 (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/84139639/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Discovery",TOP CRIME (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3420407456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Sky",SKY ATLANTIC (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1421393119/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/62558606/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film;Sky",SKY CINEMA DUE (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2330574729/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 6 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3251217290/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3939513684/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Intrattenimento;Rai Tv",RAI 5 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3249873828/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2130523218/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Intrattenimento;Rai Tv",RAI GULP (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1901652742/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ROMANCE (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1281264885/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1 (2)" tvg-logo="" group-title="Sport",EUROSPORT 1 (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3448075317/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2711959620/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 2 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/525374356/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1744435623/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 1 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1492183364/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2861734300/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",FOCUS (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2982550433/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2745635299/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3009377513/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/924661659/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raisport+.it" tvg-name="Rai Sport+" tvg-logo="" group-title="Sport;Rai Tv",RAI SPORT+ (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/843891896/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 2 (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1939210164/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -147,47 +192,41 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/19392101
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ACTION (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3812796171/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2235732004/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2 (2)" tvg-logo="" group-title="Sport",EUROSPORT 2 (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2317684453/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Sky",CIELO (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2719953688/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="la7.it" tvg-name="La 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2143522071/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/78546677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film;Sky",SKY SERIE (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/836680112/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA FAMILY (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3216516117/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (BACKUP) (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2242741766/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3007400791/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V)
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2828455552/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Intrattenimento;Discovery",REAL TIME (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1574975196/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 4 (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4241820180/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno (2)" tvg-logo="" group-title="Sport",SKY SPORT UNO (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3192996672/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="frisbee.it" tvg-name="Frisbee" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/frisbee-it.png" group-title="Bambini",FRISBEE (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1995860185/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="italia2.it" tvg-name="Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Intrattenimento;Mediaset",ITALIA 2 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1613543898/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3039389215/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/729945219/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/317837654/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3475299702/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Sky Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/558282118/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -195,23 +234,23 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/55828211
 #EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Sky",TV 8 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4038365720/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="Zona Dazn" tvg-logo="https://www.digital-news.it/img/palinsesti/2023/12/1701423631-zona-dazn.webp" group-title="Sport",ZONA DAZN (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2911178456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 7 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3618643172/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo (2)" tvg-logo="" group-title="Sky",CIELO (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3743894403/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1699876530/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1989309231/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTOGP (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2090703806/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tg Com 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="Notizie;Mediaset",TG COM 24 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1785098768/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="rai4k.it" tvg-name="Rai 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI 4K (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2049087681/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tg Com 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="Notizie;Mediaset",TG COM 24 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1785098768/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Intrattenimento;Rai Tv",RAI YOYO (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1890950169/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -222,11 +261,20 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/38095847
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/374675593/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network (2)" tvg-logo="" group-title="Bambini",CARTOON NETWORK (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1289777017/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 9 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1753260677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/11090349/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2455610203/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari;Sky",SKY ARTE (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1806815496/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Discovery",FOOD NETWORK (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2820683351/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 5 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2909818756/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -234,89 +282,68 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/29098187
 #EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 8 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1440779061/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film;Sky",SKY CINEMA DUE (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2330574729/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Sky",SKY ATLANTIC (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1482866609/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Discovery",DMAX (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3008151733/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2835672487/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="tennischannel.it" tvg-name="Tennis Channel" tvg-logo="https://images.tennis.com/image/upload/t_16-9_768/v1620828532/tenniscom-prd/assets/Fallback/Tennis_Fallback_v6_f5tjzv.jpg" group-title="Sport",TENNIS CHANNEL (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2716316208/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ROMANCE (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1281264885/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 10 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2268489342/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 2 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/525374356/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Intrattenimento;Rai Tv",RAI 5 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3163380543/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Notizie;Rai Tv",RAI NEWS 24 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2272923972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari;Discovery",DISCOVERY NOVE (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2651461317/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1228534500/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1744435623/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic (2)" tvg-logo="" group-title="Sky",SKY ATLANTIC (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1421393119/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila4.it" tvg-name="Sky Primafila 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 4 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2416993844/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Intrattenimento;Discovery",REAL TIME (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2251241999/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 1 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1492183364/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skyprimafila4.it" tvg-name="Sky Primafila 4 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 4 (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3137990890/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2861734300/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3093535330/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3376031355/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf (2)" tvg-logo="" group-title="Sport",SKY SPORT GOLF (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3897711086/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie (2)" tvg-logo="" group-title="Film;Rai Tv",RAI MOVIE (V) (2)
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1925964148/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 10 (V)
+#EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 8 (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2130255339/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 10 (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4272937805/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari;Sky",SKY ARTE (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1902695925/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 3 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/573618724/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Discovery",FOOD NETWORK (V)
+#EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network (2)" tvg-logo="" group-title="Discovery",FOOD NETWORK (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2767861049/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="la7d.it" tvg-name="La 7 D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="Altro",LA 7 D (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/881846038/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3554841914/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 5 (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2255083866/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3802167244/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/326825326/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3554841914/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila17.it" tvg-name="Sky Primafila 17" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 17 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1284441949/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1 (2)" tvg-logo="" group-title="Altro",RSI LA 1 (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2290395046/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2881739927/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="giallo.it" tvg-name="Giallo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4060499455/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 9 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1134113883/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3022771961/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2 (2)" tvg-logo="" group-title="Altro",RSI LA 2 (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3590183307/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="focustv.it" tvg-name="Discovery Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",DISCOVERY FOCUS (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2113273064/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -324,23 +351,14 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/21132730
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena (2)" tvg-logo="" group-title="Sport",SKY SPORT ARENA (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2555960713/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="dazn2.it" tvg-name="Dazn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/882px-DAZN_2.svg.png" group-title="Sport",DAZN 2 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/363506221/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportseriea.it" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2077387085/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/318057128/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="mediasetitalia.it" tvg-name="Mediaset Italia" tvg-logo="https://www.italiasera.it/wp-content/uploads/2019/06/Mediaset-640x366.png" group-title="Intrattenimento;Mediaset",MEDIASET ITALIA (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1989562337/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="boingplus.it" tvg-name="Boing Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3841982646/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rakutenfamily.it" tvg-name="Rakuten Family" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN FAMILY (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3902650955/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4 (2)" tvg-logo="" group-title="Mediaset",RETE 4 (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2235732004/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis (2)" tvg-logo="" group-title="Sport",SKY SPORT TENNIS (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2100771782/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA COMEDY (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/500203271/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -348,62 +366,41 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/50020327
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA SUSPENSE (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1820997555/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time (2)" tvg-logo="" group-title="Intrattenimento;Discovery",REAL TIME (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1574975196/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4 (2)" tvg-logo="" group-title="Mediaset",RETE 4 (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4198218214/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno (2)" tvg-logo="" group-title="Sky",SKY UNO (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/322024849/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA FAMILY (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/415795144/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="Mediaset 20" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",MEDIASET 20 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3134481201/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo (2)" tvg-logo="" group-title="Sky",CIELO (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3743894403/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="mediaset1.it" tvg-name="Mediaset 1" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET 1 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/633342961/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network (2)" tvg-logo="" group-title="Bambini",CARTOON NETWORK (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1289777017/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 9 (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1753260677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax (2)" tvg-logo="" group-title="Discovery",DMAX (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3803638765/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte (2)" tvg-logo="" group-title="Documentari;Sky",SKY ARTE (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1806815496/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network (2)" tvg-logo="" group-title="Discovery",FOOD NETWORK (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2820683351/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic (2)" tvg-logo="" group-title="Sky",SKY ATLANTIC (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1482866609/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/576490047/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="tennischannel.it" tvg-name="Tennis Channel" tvg-logo="https://images.tennis.com/image/upload/t_16-9_768/v1620828532/tenniscom-prd/assets/Fallback/Tennis_Fallback_v6_f5tjzv.jpg" group-title="Sport",TENNIS CHANNEL (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2716316208/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie (2)" tvg-logo="" group-title="Film;Rai Tv",RAI MOVIE (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2835672487/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 6 (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3939513684/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Notizie;Rai Tv",RAI NEWS 24 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2272923972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno (2)" tvg-logo="" group-title="Sky",SKY UNO (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2130523218/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba (2)" tvg-logo="" group-title="Sport",SKY SPORT NBA (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2711959620/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 10 (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2268489342/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 5 (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3163380543/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="Mediaset Extra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Intrattenimento;Mediaset",MEDIASET EXTRA (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/477466531/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1228534500/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove (2)" tvg-logo="" group-title="Documentari;Discovery",DISCOVERY NOVE (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2651461317/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1574591400/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time (2)" tvg-logo="" group-title="Intrattenimento;Discovery",REAL TIME (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2251241999/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv (2)" tvg-logo="" group-title="Altro",DEEJAY TV (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/963607327/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -411,62 +408,65 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/96360732
 #EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 2 (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/877200714/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3093535330/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",FOCUS (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2982550433/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24 (2)" tvg-logo="" group-title="Notizie;Sky",SKY TG 24 (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3376031355/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top Crime (2)" tvg-logo="" group-title="Discovery",TOP CRIME (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/269503091/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 8 (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2130255339/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/62558606/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="crime+investigation.it" tvg-name="Crime+ Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Discovery",CRIME+ INVESTIGATION (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3005227700/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 6 (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3251217290/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 1 (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1944682394/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1376440573/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte (2)" tvg-logo="" group-title="Documentari;Sky",SKY ARTE (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1902695925/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 3 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/573618724/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 Twenty Seven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTY SEVEN (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/608774683/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 5 (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2255083866/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2745635299/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24 (2)" tvg-logo="" group-title="Notizie;Rai Tv",RAI NEWS 24 (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2239645272/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="la7d.it" tvg-name="La 7 D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="Altro",LA 7 D (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/881846038/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="History (2)" tvg-logo="" group-title="Documentari;Sky",HISTORY (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2134724757/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3009377513/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba (2)" tvg-logo="" group-title="Sport",SKY SPORT NBA (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/326825326/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="super!.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3550030443/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="giallo.it" tvg-name="Giallo (2)" tvg-logo="" group-title="Altro",GIALLO (V) (2)
+#EXTINF:-1 tvg-id="giallo.it" tvg-name="Giallo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2373936189/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 5 (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3249873828/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis (2)" tvg-logo="" group-title="Sport",SUPER TENNIS (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3213195143/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila17.it" tvg-name="Sky Primafila 17" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 17 (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1284441949/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel (2)" tvg-logo="" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1955739367/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2066326916/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2881739927/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8 (2)" tvg-logo="" group-title="Sky",TV 8 (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2706291008/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -477,7 +477,7 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/19115005
 #EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 Twentyseven" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",27 TWENTYSEVEN (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/80896559/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI GULP (V) (2)
+#EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Intrattenimento;Rai Tv",RAI GULP (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1803677691/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2 (2)" tvg-logo="" group-title="Bambini",K2 (V) (2)
@@ -489,23 +489,26 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/23919988
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1987220436/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing (2)" tvg-logo="" group-title="Bambini",BOING (V) (2)
+#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3373510242/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1 (2)" tvg-logo="" group-title="Altro",RSI LA 1 (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2290395046/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 7 (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4238969402/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/924661659/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="giallo.it" tvg-name="Giallo (2)" tvg-logo="" group-title="Altro",GIALLO (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4060499455/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 9 (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1134113883/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="la7.it" tvg-name="La 7 (2)" tvg-logo="" group-title="Altro",LA 7 (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/775530063/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (BACKUP) (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2178717282/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing (2)" tvg-logo="" group-title="Bambini",BOING (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3022771961/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 3 (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/153693434/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -524,12 +527,6 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/29003621
 
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="Hgtv" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Discovery",HGTV (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2897782781/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raisport+.it" tvg-name="Rai Sport+" tvg-logo="" group-title="Sport;Rai Tv",RAI SPORT+ (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/843891896/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2 (2)" tvg-logo="" group-title="Altro",RSI LA 2 (V) (2)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3590183307/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI YOYO (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1785501924/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -552,6 +549,9 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/31650869
 #EXTINF:-1 tvg-id="skyprimafila14.it" tvg-name="Sky Primafila 14" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 14 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/187661709/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI GULP (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1901652742/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/444768053/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -564,14 +564,11 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/56316060
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito (2)" tvg-logo="" group-title="Bambini",CARTOONITO (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1907000512/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportseriea.it" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2077387085/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="Hgtv (2)" tvg-logo="" group-title="Discovery",HGTV (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4248997029/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="mediasetitalia.it" tvg-name="Mediaset Italia" tvg-logo="https://www.italiasera.it/wp-content/uploads/2019/06/Mediaset-640x366.png" group-title="Intrattenimento;Mediaset",MEDIASET ITALIA (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1989562337/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24 (2)" tvg-logo="" group-title="Notizie;Sky",SKY TG 24 (V) (2)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/318057128/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila12.it" tvg-name="Sky Primafila 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 12 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2221901869/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -636,11 +633,11 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/24360705
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V) (2)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/294457245/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rakutenactionmovies.it" tvg-name="Rakuten Action Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN ACTION MOVIES (V)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3064811192/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1078650168/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rakutenactionmovies.it" tvg-name="Rakuten Action Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN ACTION MOVIES (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3064811192/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="mediasetinfinity+5.it" tvg-name="Mediaset Infinity+ 5" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 5 (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/588488827/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -650,6 +647,9 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/24181484
 
 #EXTINF:-1 tvg-id="rakutendrama.it" tvg-name="Rakuten Drama" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN DRAMA (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2098624390/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rakutenfamily.it" tvg-name="Rakuten Family" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN FAMILY (V)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3902650955/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rakutencomedymovies.it" tvg-name="Rakuten Comedy Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN COMEDY MOVIES (V)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1109372778/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -865,96 +865,123 @@ https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https%3A//timlivetu0.cb.ticdn.i
 
 
 # Canali aggiunti da SkyStreaming
+#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Arena (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 #EXTINF:-1 tvg-id="Sky Sport 255" tvg-name="Sky Sport 255" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 255 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 2 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="FORMULA 1 vs GP Spagna" tvg-name="FORMULA 1 vs GP Spagna" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", FORMULA 1 vs GP Spagna (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 251" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 251 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Golf (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport NBA" tvg-name="Sky Sport NBA" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport NBA (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 24" tvg-name="Sky Sport 24" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 24 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky24/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 #EXTINF:-1 tvg-id="Sky Sport 257" tvg-name="Sky Sport 257" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 257 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky257/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport 254" tvg-name="Sky Sport 254" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 254 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky254/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport MotoGP (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport 259" tvg-name="Sky Sport 259" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 259 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky259/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 #EXTINF:-1 tvg-id="ATP - SINGOLARE vs Open di Francia ES1" tvg-name="ATP - SINGOLARE vs Open di Francia ES1" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", ATP - SINGOLARE vs Open di Francia ES1 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport Max" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Max (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Golf (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Tennis (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport 260" tvg-name="Sky Sport 260" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 260 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky260/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="FORMULA 1 vs GP Spagna" tvg-name="FORMULA 1 vs GP Spagna" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", FORMULA 1 vs GP Spagna (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 #EXTINF:-1 tvg-id="Sky Sport 253" tvg-name="Sky Sport 253" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 253 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky253/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport 251" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 251 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport F1 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport 252" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 252 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport 258" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 258 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport 256" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 256 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport NBA" tvg-name="Sky Sport NBA" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport NBA (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport Max" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Max (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 2 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 #EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-name="Sky Sport Calcio" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Calcio (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Uno (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 #EXTINF:-1 tvg-id="ATP - SINGOLARE vs Open di Francia ES2" tvg-name="ATP - SINGOLARE vs Open di Francia ES2" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", ATP - SINGOLARE vs Open di Francia ES2 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 #EXTINF:-1 tvg-id="Sky Sport 261" tvg-name="Sky Sport 261" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 261 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky261/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 254" tvg-name="Sky Sport 254" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 254 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky254/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Tennis (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Uno (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 256" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 256 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport MotoGP (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 260" tvg-name="Sky Sport 260" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 260 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky260/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 258" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 258 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 1 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 259" tvg-name="Sky Sport 259" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 259 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky259/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Arena (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 252" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 252 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 255" tvg-name="Sky Sport 255" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 255 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 2 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="FORMULA 1 vs GP Spagna" tvg-name="FORMULA 1 vs GP Spagna" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", FORMULA 1 vs GP Spagna (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport 251" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 251 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Golf (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport NBA" tvg-name="Sky Sport NBA" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport NBA (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
 #EXTINF:-1 tvg-id="Sky Sport 24" tvg-name="Sky Sport 24" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 24 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky24/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 1 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Arena (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport 255" tvg-name="Sky Sport 255" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 255 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
 #EXTINF:-1 tvg-id="Sky Sport 257" tvg-name="Sky Sport 257" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 257 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky257/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
+#EXTINF:-1 tvg-id="Sky Sport 254" tvg-name="Sky Sport 254" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 254 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky254/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport MotoGP (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport 259" tvg-name="Sky Sport 259" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 259 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky259/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
 #EXTINF:-1 tvg-id="ATP - SINGOLARE vs Open di Francia ES1" tvg-name="ATP - SINGOLARE vs Open di Francia ES1" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", ATP - SINGOLARE vs Open di Francia ES1 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
-#EXTINF:-1 tvg-id="Sky Sport Max" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Max (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Golf (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Tennis (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport 260" tvg-name="Sky Sport 260" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 260 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky260/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="FORMULA 1 vs GP Spagna" tvg-name="FORMULA 1 vs GP Spagna" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", FORMULA 1 vs GP Spagna (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
 #EXTINF:-1 tvg-id="Sky Sport 253" tvg-name="Sky Sport 253" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 253 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky253/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
+#EXTINF:-1 tvg-id="Sky Sport 251" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 251 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport F1 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
+#EXTINF:-1 tvg-id="Sky Sport 252" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 252 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport 258" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 258 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport 256" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 256 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport NBA" tvg-name="Sky Sport NBA" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport NBA (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport Max" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Max (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 2 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
 #EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-name="Sky Sport Calcio" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Calcio (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Uno (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
 #EXTINF:-1 tvg-id="ATP - SINGOLARE vs Open di Francia ES2" tvg-name="ATP - SINGOLARE vs Open di Francia ES2" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", ATP - SINGOLARE vs Open di Francia ES2 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
@@ -962,38 +989,11 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/e
 #EXTINF:-1 tvg-id="Sky Sport 261" tvg-name="Sky Sport 261" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 261 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky261/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
-#EXTINF:-1 tvg-id="Sky Sport 254" tvg-name="Sky Sport 254" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 254 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky254/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Tennis (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Uno (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport 256" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 256 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport MotoGP (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport 260" tvg-name="Sky Sport 260" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 260 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky260/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport 258" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 258 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport 24" tvg-name="Sky Sport 24" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 24 (SS)
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky24/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 1 (SS)
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport 259" tvg-name="Sky Sport 259" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 259 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky259/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Arena (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport 252" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 252 (SS)
-https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
 
 # Canali aggiunti da ThisNotBusiness
@@ -1746,7 +1746,7 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="UEFA Champions League Final - PSG vs Internazionale" tvg-name="21:00 UEFA Champions League Final : PSG vs Internazionale - 31/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748683142_psg-x-internazionale.jpg" group-title="Calcio", 5 SPORT Israel
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Brazil - Serie B - Coritiba vs Avaí" tvg-name="21:00 Brazil - Serie B : Coritiba vs Avaí - 31/05/25" tvg-logo="https://logodetimes.com/times/coritiba/logo-coritiba-1.png" group-title="Calcio", ESPN Brazil
+#EXTINF:-1 tvg-id="Brazil - Serie B - Coritiba vs Avaí" tvg-name="21:00 Brazil - Serie B : Coritiba vs Avaí - 31/05/25" tvg-logo="https://3.bp.blogspot.com/-ajlEVK2VIlI/VuQqm3iRgnI/AAAAAAAAG5w/bqVTHmDEE5k7aHboXbLcQzOy6a2s0Idtw/s1600/escudo_coritiba.png" group-title="Calcio", ESPN Brazil
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Canadian Premier League - Forge vs Cavalry" tvg-name="23:00 Canadian Premier League : Forge vs Cavalry - 31/05/25" tvg-logo="https://forgeofficial.de/fotos/Logo.png" group-title="Calcio", TSN3
@@ -1755,10 +1755,13 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="Canadian Premier League - York United vs HFX Wanderers" tvg-name="01:00 Canadian Premier League : York United vs HFX Wanderers - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/York%20United_vs_HFX%20Wanderers.png" group-title="Calcio", Fox Sports 2 USA
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-758.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Griekspoor T. vs Quinn E." tvg-name="01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25" tvg-logo="https://images.justwatch.com/icon/297942798/s166/tallon-griekspoor.png" group-title="Atp - Roland Garros", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Griekspoor T. vs Quinn E." tvg-name="01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25" tvg-logo="https://statics-files.tycsports.com/banderas/p33.png?v=2" group-title="Atp - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Griekspoor T. vs Quinn E." tvg-name="01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25" tvg-logo="https://images.justwatch.com/icon/297942798/s166/tallon-griekspoor.png" group-title="Atp - Roland Garros", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Griekspoor T. vs Quinn E." tvg-name="01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25" tvg-logo="https://statics-files.tycsports.com/banderas/p33.png?v=2" group-title="Atp - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Griekspoor T. vs Quinn E." tvg-name="01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25" tvg-logo="https://statics-files.tycsports.com/banderas/p33.png?v=2" group-title="Atp - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Lehecka J." tvg-name="03:00 ATP - ROLAND GARROS : Sinner J. vs Lehecka J. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Sinner%20J._vs_Lehecka%20J..png" group-title="Atp - Roland Garros", Tennis Stream
@@ -1767,10 +1770,19 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Lehecka J." tvg-name="03:00 ATP - ROLAND GARROS : Sinner J. vs Lehecka J. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Sinner%20J._vs_Lehecka%20J..png" group-title="Atp - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Cobolli F." tvg-name="04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/06/Zverev-Tennis-Roland-Garros-PNG-Render-.png" group-title="Atp - Roland Garros", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Lehecka J." tvg-name="03:00 ATP - ROLAND GARROS : Sinner J. vs Lehecka J. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Sinner%20J._vs_Lehecka%20J..png" group-title="Atp - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Cobolli F." tvg-name="04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/06/Zverev-Tennis-Roland-Garros-PNG-Render-.png" group-title="Atp - Roland Garros", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Cobolli F." tvg-name="04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Atp - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Cobolli F." tvg-name="04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Atp - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Cobolli F." tvg-name="04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Atp - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Bublik A. vs Rocha H." tvg-name="04:30 ATP - ROLAND GARROS : Bublik A. vs Rocha H. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Bublik%20A._vs_Rocha%20H..png" group-title="Atp - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Bublik A. vs Rocha H." tvg-name="04:30 ATP - ROLAND GARROS : Bublik A. vs Rocha H. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Bublik%20A._vs_Rocha%20H..png" group-title="Atp - Roland Garros", Tennis Stream
@@ -1785,16 +1797,31 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Fonseca J. vs Draper J." tvg-name="05:00 ATP - ROLAND GARROS : Fonseca J. vs Draper J. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Fonseca%20J._vs_Draper%20J..png" group-title="Atp - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Norrie C. vs Fearnley J." tvg-name="06:30 ATP - ROLAND GARROS : Norrie C. vs Fearnley J. - 31/05/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2022/06/07/13/24/norrie-head-2022-may.png" group-title="Atp - Roland Garros", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Fonseca J. vs Draper J." tvg-name="05:00 ATP - ROLAND GARROS : Fonseca J. vs Draper J. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Fonseca%20J._vs_Draper%20J..png" group-title="Atp - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Norrie C. vs Fearnley J." tvg-name="06:30 ATP - ROLAND GARROS : Norrie C. vs Fearnley J. - 31/05/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2022/06/07/13/24/norrie-head-2022-may.png" group-title="Atp - Roland Garros", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Norrie C. vs Fearnley J." tvg-name="06:30 ATP - ROLAND GARROS : Norrie C. vs Fearnley J. - 31/05/25" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/12/Charters-Towers-AFL-F.C.-Logo-Vector.svg-.png" group-title="Atp - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Norrie C. vs Fearnley J." tvg-name="06:30 ATP - ROLAND GARROS : Norrie C. vs Fearnley J. - 31/05/25" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/12/Charters-Towers-AFL-F.C.-Logo-Vector.svg-.png" group-title="Atp - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Norrie C. vs Fearnley J." tvg-name="06:30 ATP - ROLAND GARROS : Norrie C. vs Fearnley J. - 31/05/25" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/12/Charters-Towers-AFL-F.C.-Logo-Vector.svg-.png" group-title="Atp - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Misolic F. vs Djokovic N." tvg-name="10:45 ATP - ROLAND GARROS : Misolic F. vs Djokovic N. - 31/05/25" tvg-logo="http://fc05.deviantart.net/fs71/i/2012/175/2/c/f_type___logos_for_sale_by_aeldesign-d54ngjv.png" group-title="Atp - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Misolic F. vs Djokovic N." tvg-name="10:45 ATP - ROLAND GARROS : Misolic F. vs Djokovic N. - 31/05/25" tvg-logo="http://fc05.deviantart.net/fs71/i/2012/175/2/c/f_type___logos_for_sale_by_aeldesign-d54ngjv.png" group-title="Atp - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Misolic F. vs Djokovic N." tvg-name="10:45 ATP - ROLAND GARROS : Misolic F. vs Djokovic N. - 31/05/25" tvg-logo="http://fc05.deviantart.net/fs71/i/2012/175/2/c/f_type___logos_for_sale_by_aeldesign-d54ngjv.png" group-title="Atp - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Andrey Rublev vs Arthur Fils" tvg-name="14:30 ATP - ROLAND GARROS : Andrey Rublev vs Arthur Fils - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Andrey%20Rublev_vs_Arthur%20Fils.png" group-title="Atp - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Kasatkina D. vs Badosa P." tvg-name="01:30 WTA - ROLAND GARROS : Kasatkina D. vs Badosa P. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Kasatkina%20D._vs_Badosa%20P..png" group-title="Wta - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Kasatkina D. vs Badosa P." tvg-name="01:30 WTA - ROLAND GARROS : Kasatkina D. vs Badosa P. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Kasatkina%20D._vs_Badosa%20P..png" group-title="Wta - Roland Garros", Tennis Stream
@@ -1809,10 +1836,19 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Andreeva M. vs Putintseva Y." tvg-name="01:30 WTA - ROLAND GARROS : Andreeva M. vs Putintseva Y. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Andreeva%20M._vs_Putintseva%20Y..png" group-title="Wta - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Andreeva M. vs Putintseva Y." tvg-name="01:30 WTA - ROLAND GARROS : Andreeva M. vs Putintseva Y. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Andreeva%20M._vs_Putintseva%20Y..png" group-title="Wta - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Vondrousova M. vs Pegula J." tvg-name="02:30 WTA - ROLAND GARROS : Vondrousova M. vs Pegula J. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Vondrousova%20M._vs_Pegula%20J..png" group-title="Wta - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Vondrousova M. vs Pegula J." tvg-name="02:30 WTA - ROLAND GARROS : Vondrousova M. vs Pegula J. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Vondrousova%20M._vs_Pegula%20J..png" group-title="Wta - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Vondrousova M. vs Pegula J." tvg-name="02:30 WTA - ROLAND GARROS : Vondrousova M. vs Pegula J. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Vondrousova%20M._vs_Pegula%20J..png" group-title="Wta - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Jacquemot E. vs Boisson L." tvg-name="03:00 WTA - ROLAND GARROS : Jacquemot E. vs Boisson L. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Jacquemot%20E._vs_Boisson%20L..png" group-title="Wta - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Jacquemot E. vs Boisson L." tvg-name="03:00 WTA - ROLAND GARROS : Jacquemot E. vs Boisson L. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Jacquemot%20E._vs_Boisson%20L..png" group-title="Wta - Roland Garros", Tennis Stream
@@ -1827,6 +1863,12 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Kudermetova V. vs Alexandrova E." tvg-name="03:30 WTA - ROLAND GARROS : Kudermetova V. vs Alexandrova E. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Kudermetova%20V._vs_Alexandrova%20E..png" group-title="Wta - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Kudermetova V. vs Alexandrova E." tvg-name="03:30 WTA - ROLAND GARROS : Kudermetova V. vs Alexandrova E. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Kudermetova%20V._vs_Alexandrova%20E..png" group-title="Wta - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Baptiste H. vs Bouzas Maneiro J." tvg-name="05:00 WTA - ROLAND GARROS : Baptiste H. vs Bouzas Maneiro J. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Baptiste%20H._vs_Bouzas%20Maneiro%20J..png" group-title="Wta - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Baptiste H. vs Bouzas Maneiro J." tvg-name="05:00 WTA - ROLAND GARROS : Baptiste H. vs Bouzas Maneiro J. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Baptiste%20H._vs_Bouzas%20Maneiro%20J..png" group-title="Wta - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
@@ -1839,13 +1881,25 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Bouzkova M. vs Gauff C." tvg-name="06:00 WTA - ROLAND GARROS : Bouzkova M. vs Gauff C. - 31/05/25" tvg-logo="https://www.bouzkovamarie.com/wp-content/uploads/2019/04/wta-logo.png" group-title="Wta - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Kenin S." tvg-name="07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25" tvg-logo="https://cdn-icons-png.flaticon.com/512/30/30982.png" group-title="Wta - Roland Garros", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Bouzkova M. vs Gauff C." tvg-name="06:00 WTA - ROLAND GARROS : Bouzkova M. vs Gauff C. - 31/05/25" tvg-logo="https://www.bouzkovamarie.com/wp-content/uploads/2019/04/wta-logo.png" group-title="Wta - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Kenin S." tvg-name="07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25" tvg-logo="https://cdn-icons-png.flaticon.com/512/30/30982.png" group-title="Wta - Roland Garros", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Kenin S." tvg-name="07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Keys-designstyle-colors-m.png" group-title="Wta - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Duckworth J./Vukic A. vs Nys H./Roger-Vasselin E." tvg-name="01:30 ATP DOUBLES - ROLAND GARROS : Duckworth J./Vukic A. vs Nys H./Roger-Vasselin E. - 31/05/25" tvg-logo="https://www.totalwine.com/dynamic/x1000,sq/media/sys_master/twmmedia/h0d/h7b/10421916663838.png" group-title="Atp Doubles - Roland Garros", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Kenin S." tvg-name="07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Keys-designstyle-colors-m.png" group-title="Wta - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Kenin S." tvg-name="07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Keys-designstyle-colors-m.png" group-title="Wta - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Duckworth J./Vukic A. vs Nys H./Roger-Vasselin E." tvg-name="01:30 ATP DOUBLES - ROLAND GARROS : Duckworth J./Vukic A. vs Nys H./Roger-Vasselin E. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Roger-Vasselin%20E..png" group-title="Atp Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Duckworth J./Vukic A. vs Nys H./Roger-Vasselin E." tvg-name="01:30 ATP DOUBLES - ROLAND GARROS : Duckworth J./Vukic A. vs Nys H./Roger-Vasselin E. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Roger-Vasselin%20E..png" group-title="Atp Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Romboli F./Smith J. P. vs Cazaux A./Mayot H." tvg-name="01:30 ATP DOUBLES - ROLAND GARROS : Romboli F./Smith J. P. vs Cazaux A./Mayot H. - 31/05/25" tvg-logo="https://s.hs-data.com/gfx/competition/png/normal/50x50/884.png" group-title="Atp Doubles - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Romboli F./Smith J. P. vs Cazaux A./Mayot H." tvg-name="01:30 ATP DOUBLES - ROLAND GARROS : Romboli F./Smith J. P. vs Cazaux A./Mayot H. - 31/05/25" tvg-logo="https://s.hs-data.com/gfx/competition/png/normal/50x50/884.png" group-title="Atp Doubles - Roland Garros", Tennis Stream
@@ -1854,7 +1908,16 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Arevalo M./Pavic M. vs Bellucci M./Marozsan F." tvg-name="03:00 ATP DOUBLES - ROLAND GARROS : Arevalo M./Pavic M. vs Bellucci M./Marozsan F. - 31/05/25" tvg-logo="https://images.justwatch.com/icon/299063389/s166/mate-pavic.png" group-title="Atp Doubles - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Arevalo M./Pavic M. vs Bellucci M./Marozsan F." tvg-name="03:00 ATP DOUBLES - ROLAND GARROS : Arevalo M./Pavic M. vs Bellucci M./Marozsan F. - 31/05/25" tvg-logo="https://images.justwatch.com/icon/299063389/s166/mate-pavic.png" group-title="Atp Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
 #EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Krawietz K./Puetz T. vs Dodig I./Luz O." tvg-name="03:00 ATP DOUBLES - ROLAND GARROS : Krawietz K./Puetz T. vs Dodig I./Luz O. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Luz%20O..png" group-title="Atp Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Krawietz K./Puetz T. vs Dodig I./Luz O." tvg-name="03:00 ATP DOUBLES - ROLAND GARROS : Krawietz K./Puetz T. vs Dodig I./Luz O. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Luz%20O..png" group-title="Atp Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Balaji N. S./Reyes-Varela M. A. vs Bolelli S./Vavassori A." tvg-name="04:30 ATP DOUBLES - ROLAND GARROS : Balaji N. S./Reyes-Varela M. A. vs Bolelli S./Vavassori A. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Vavassori%20A..png" group-title="Atp Doubles - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Balaji N. S./Reyes-Varela M. A. vs Bolelli S./Vavassori A." tvg-name="04:30 ATP DOUBLES - ROLAND GARROS : Balaji N. S./Reyes-Varela M. A. vs Bolelli S./Vavassori A. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Vavassori%20A..png" group-title="Atp Doubles - Roland Garros", Tennis Stream
@@ -1863,10 +1926,22 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Borges N./Rinderknech A. vs Goransson A./Verbeek S." tvg-name="04:30 ATP DOUBLES - ROLAND GARROS : Borges N./Rinderknech A. vs Goransson A./Verbeek S. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Verbeek%20S..png" group-title="Atp Doubles - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Borges N./Rinderknech A. vs Goransson A./Verbeek S." tvg-name="04:30 ATP DOUBLES - ROLAND GARROS : Borges N./Rinderknech A. vs Goransson A./Verbeek S. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Verbeek%20S..png" group-title="Atp Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
 #EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Gonzalez S./Krajicek A. vs Halys Q./Olivetti A." tvg-name="04:30 ATP DOUBLES - ROLAND GARROS : Gonzalez S./Krajicek A. vs Halys Q./Olivetti A. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Olivetti%20A..png" group-title="Atp Doubles - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Paul J./Pel D. vs Arends S./Johnson L." tvg-name="04:30 ATP DOUBLES - ROLAND GARROS : Paul J./Pel D. vs Arends S./Johnson L. - 31/05/25" tvg-logo="https://seeklogo.com/images/P/pel-logo-4C010F4F8D-seeklogo.com.png" group-title="Atp Doubles - Roland Garros", Tennis Stream
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Gonzalez S./Krajicek A. vs Halys Q./Olivetti A." tvg-name="04:30 ATP DOUBLES - ROLAND GARROS : Gonzalez S./Krajicek A. vs Halys Q./Olivetti A. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Olivetti%20A..png" group-title="Atp Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Paul J./Pel D. vs Arends S./Johnson L." tvg-name="04:30 ATP DOUBLES - ROLAND GARROS : Paul J./Pel D. vs Arends S./Johnson L. - 31/05/25" tvg-logo="https://seeklogo.com/images/P/pel-logo-4ED98158C5-seeklogo.com.png?v=637836298440000000" group-title="Atp Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Paul J./Pel D. vs Arends S./Johnson L." tvg-name="04:30 ATP DOUBLES - ROLAND GARROS : Paul J./Pel D. vs Arends S./Johnson L. - 31/05/25" tvg-logo="https://seeklogo.com/images/P/pel-logo-4ED98158C5-seeklogo.com.png?v=637836298440000000" group-title="Atp Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Bronzetti L./Li A. vs Chan H-C./Olmos G." tvg-name="01:30 WTA DOUBLES - ROLAND GARROS : Bronzetti L./Li A. vs Chan H-C./Olmos G. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Olmos%20G..png" group-title="Wta Doubles - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Bronzetti L./Li A. vs Chan H-C./Olmos G." tvg-name="01:30 WTA DOUBLES - ROLAND GARROS : Bronzetti L./Li A. vs Chan H-C./Olmos G. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Olmos%20G..png" group-title="Wta Doubles - Roland Garros", Tennis Stream
@@ -1875,7 +1950,16 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Begu I./Wickmayer Y. vs Melichar-Martinez/Samsonova" tvg-name="03:00 WTA DOUBLES - ROLAND GARROS : Begu I./Wickmayer Y. vs Melichar-Martinez/Samsonova - 31/05/25" tvg-logo="https://www.keuck-baustoffe.de/wp-content/uploads/2023/09/BEGU_Abdeckung_KLB_rund_ohne_LuCC88ftung-removebg-preview-1-500x458.png" group-title="Wta Doubles - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Begu I./Wickmayer Y. vs Melichar-Martinez/Samsonova" tvg-name="03:00 WTA DOUBLES - ROLAND GARROS : Begu I./Wickmayer Y. vs Melichar-Martinez/Samsonova - 31/05/25" tvg-logo="https://www.keuck-baustoffe.de/wp-content/uploads/2023/09/BEGU_Abdeckung_KLB_rund_ohne_LuCC88ftung-removebg-preview-1-500x458.png" group-title="Wta Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Detiuc A./Starodubtseva Y. vs Babos T./Stefani L." tvg-name="03:00 WTA DOUBLES - ROLAND GARROS : Detiuc A./Starodubtseva Y. vs Babos T./Stefani L. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Stefani%20L..png" group-title="Wta Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Detiuc A./Starodubtseva Y. vs Babos T./Stefani L." tvg-name="03:00 WTA DOUBLES - ROLAND GARROS : Detiuc A./Starodubtseva Y. vs Babos T./Stefani L. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Stefani%20L..png" group-title="Wta Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Jiang X./Wu F. vs Danilina A./Krunic A." tvg-name="03:00 WTA DOUBLES - ROLAND GARROS : Jiang X./Wu F. vs Danilina A./Krunic A. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Krunic%20A..png" group-title="Wta Doubles - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Jiang X./Wu F. vs Danilina A./Krunic A." tvg-name="03:00 WTA DOUBLES - ROLAND GARROS : Jiang X./Wu F. vs Danilina A./Krunic A. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Krunic%20A..png" group-title="Wta Doubles - Roland Garros", Tennis Stream
@@ -1884,7 +1968,16 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Sun L./Yuan Y. vs Errani S./Paolini J." tvg-name="03:00 WTA DOUBLES - ROLAND GARROS : Sun L./Yuan Y. vs Errani S./Paolini J. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Paolini%20J..png" group-title="Wta Doubles - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Hsieh S-W./Ostapenko J. vs Rakhimova K./Siskova A." tvg-name="04:30 WTA DOUBLES - ROLAND GARROS : Hsieh S-W./Ostapenko J. vs Rakhimova K./Siskova A. - 31/05/25" tvg-logo="https://images.justwatch.com/icon/300205281/s166/jelena-ostapenko.png" group-title="Wta Doubles - Roland Garros", Tennis Stream
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Sun L./Yuan Y. vs Errani S./Paolini J." tvg-name="03:00 WTA DOUBLES - ROLAND GARROS : Sun L./Yuan Y. vs Errani S./Paolini J. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Paolini%20J..png" group-title="Wta Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Hsieh S-W./Ostapenko J. vs Rakhimova K./Siskova A." tvg-name="04:30 WTA DOUBLES - ROLAND GARROS : Hsieh S-W./Ostapenko J. vs Rakhimova K./Siskova A. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Siskova%20A..png" group-title="Wta Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Hsieh S-W./Ostapenko J. vs Rakhimova K./Siskova A." tvg-name="04:30 WTA DOUBLES - ROLAND GARROS : Hsieh S-W./Ostapenko J. vs Rakhimova K./Siskova A. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Siskova%20A..png" group-title="Wta Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Pavlyuchenkova/Pridankina vs Muhammad/Schuurs" tvg-name="06:00 WTA DOUBLES - ROLAND GARROS : Pavlyuchenkova/Pridankina vs Muhammad/Schuurs - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Schuurs.png" group-title="Wta Doubles - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Pavlyuchenkova/Pridankina vs Muhammad/Schuurs" tvg-name="06:00 WTA DOUBLES - ROLAND GARROS : Pavlyuchenkova/Pridankina vs Muhammad/Schuurs - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Schuurs.png" group-title="Wta Doubles - Roland Garros", Tennis Stream
@@ -1893,7 +1986,16 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Kudermetova V./Mertens E. vs Alexandrova E./Stearns P." tvg-name="06:30 WTA DOUBLES - ROLAND GARROS : Kudermetova V./Mertens E. vs Alexandrova E./Stearns P. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Stearns%20P..png" group-title="Wta Doubles - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Kudermetova V./Mertens E. vs Alexandrova E./Stearns P." tvg-name="06:30 WTA DOUBLES - ROLAND GARROS : Kudermetova V./Mertens E. vs Alexandrova E./Stearns P. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Stearns%20P..png" group-title="Wta Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
 #EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Krawczyk D./Skupski N. vs Routliffe E./Venus M." tvg-name="01:30 MIXED DOUBLES - ROLAND GARROS : Krawczyk D./Skupski N. vs Routliffe E./Venus M. - 31/05/25" tvg-logo="https://s.hs-data.com/gfx/competition/png/normal/100x100/14159.png" group-title="Mixed Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Krawczyk D./Skupski N. vs Routliffe E./Venus M." tvg-name="01:30 MIXED DOUBLES - ROLAND GARROS : Krawczyk D./Skupski N. vs Routliffe E./Venus M. - 31/05/25" tvg-logo="https://s.hs-data.com/gfx/competition/png/normal/100x100/14159.png" group-title="Mixed Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Bucsa C./Matos R. vs Olmos G./Glasspool L." tvg-name="04:30 MIXED DOUBLES - ROLAND GARROS : Bucsa C./Matos R. vs Olmos G./Glasspool L. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Glasspool%20L..png" group-title="Mixed Doubles - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Bucsa C./Matos R. vs Olmos G./Glasspool L." tvg-name="04:30 MIXED DOUBLES - ROLAND GARROS : Bucsa C./Matos R. vs Olmos G./Glasspool L. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Glasspool%20L..png" group-title="Mixed Doubles - Roland Garros", Tennis Stream
@@ -1902,7 +2004,16 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Danilina A./Heliovaara H. vs Nicholls O./Patten H." tvg-name="06:00 MIXED DOUBLES - ROLAND GARROS : Danilina A./Heliovaara H. vs Nicholls O./Patten H. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Patten%20H..png" group-title="Mixed Doubles - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Danilina A./Heliovaara H. vs Nicholls O./Patten H." tvg-name="06:00 MIXED DOUBLES - ROLAND GARROS : Danilina A./Heliovaara H. vs Nicholls O./Patten H. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Patten%20H..png" group-title="Mixed Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
 #EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Kichenok L./Pavic M. vs Parry D./Mayot H." tvg-name="06:00 MIXED DOUBLES - ROLAND GARROS : Kichenok L./Pavic M. vs Parry D./Mayot H. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Mayot%20H..png" group-title="Mixed Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Kichenok L./Pavic M. vs Parry D./Mayot H." tvg-name="06:00 MIXED DOUBLES - ROLAND GARROS : Kichenok L./Pavic M. vs Parry D./Mayot H. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Mayot%20H..png" group-title="Mixed Doubles - Roland Garros", Tennis Stream
+https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Stefani L./Gonzalez M. vs Zhang S./Arevalo M." tvg-name="06:00 MIXED DOUBLES - ROLAND GARROS : Stefani L./Gonzalez M. vs Zhang S./Arevalo M. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Arevalo%20M..png" group-title="Mixed Doubles - Roland Garros", Tennis Stream
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Stefani L./Gonzalez M. vs Zhang S./Arevalo M." tvg-name="06:00 MIXED DOUBLES - ROLAND GARROS : Stefani L./Gonzalez M. vs Zhang S./Arevalo M. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Arevalo%20M..png" group-title="Mixed Doubles - Roland Garros", Tennis Stream
