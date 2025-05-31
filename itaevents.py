@@ -17,13 +17,13 @@ from PIL import Image, ImageDraw, ImageFont
 from dotenv import load_dotenv
 load_dotenv()
 
-PROXY = os.getenv("PROXY", "")
-MFPDD= os.getenv("MFPDD", "")
-MFPDD2= os.getenv("MFPDD2", "")
+PROXY = os.getenv("DDPROXY", "")
+MFPDD= os.getenv("DDMFPDD", "")
+MFPDD2= os.getenv("DDMFPDD2", "")
 GUARCAL = os.getenv("GUARCAL")
 DADDY = os.getenv("DADDY")
 SKYSTR = os.getenv("SKYSTR")
-MFPDDNOPSW = os.getenv("MFPDDNOPSW", "")
+MFPDDNOPSW = os.getenv("DDMFPDDNOPSW", "")
 
 
 def get_github_logo_url(local_path):
